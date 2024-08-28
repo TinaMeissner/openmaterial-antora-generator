@@ -70,4 +70,4 @@ antora:
       loft: true
       local_to_global_references: false # Orignal value: true
       bibliography: false # Original value: true; deactivated because build failed 
-   
+
